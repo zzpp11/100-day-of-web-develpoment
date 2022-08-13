@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+h1 {
+  font-family: "oswald", sans-serif;
+  color: coral;
+}
+p {
+  font-family: "fira sans", sans-serif;
+  color: #534b4b;
+}
+a {
+  color: #004fff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+#todays-challenge {
+  color: red;
+  font-weight: bold;
+  font-size: 50px;
+}
